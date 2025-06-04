@@ -16,7 +16,7 @@ Strategic dashboard developed for **X5 Retail Group** to optimize courier shift 
 > This published version contains **anonymized and abfuscated data** to protect business confidentiality while preserving full dashboard functionality for demonstration purposes.
 
 ## Access the Dashboard
-[![Tableau Public](https://drive.google.com/file/d/1k-HWVZbo_ljVWBG5oMSIeAoNGoXxliGj/view?usp=share_link)](https://public.tableau.com/app/profile/alexander.vinnik/viz/OrdersDistribution_16915879496930/sheet7)  
+[![Tableau Public Dashboard](https://public.tableau.com/static/images/Or/OrdersDistribution_16915879496930/sheet7/1_rss.png)](https://public.tableau.com/app/profile/alexander.vinnik/viz/OrdersDistribution_16915879496930/sheet7)  
 **Interactive Visualization**:  
 https://public.tableau.com/app/profile/alexander.vinnik/viz/OrdersDistribution_16915879496930/sheet7
 
