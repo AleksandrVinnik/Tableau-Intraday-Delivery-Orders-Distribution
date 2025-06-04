@@ -32,5 +32,3 @@ https://public.tableau.com/app/profile/alexander.vinnik/viz/OrdersDistribution_1
 4. **Visual Optimization**: Designed intuitive metrics for operations teams
 
 ---
-
-https://public.tableau.com/app/profile/alexander.vinnik/viz/OrdersDistribution_16915879496930/sheet7
