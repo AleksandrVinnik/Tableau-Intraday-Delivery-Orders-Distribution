@@ -22,10 +22,4 @@ https://public.tableau.com/app/profile/alexander.vinnik/viz/OrdersDistribution_1
 - Decreased average CTD by 22 minutes per delivery
 - Optimized staffing costs while maintaining service quality
 
-## Methodology
-1. **Data Integration**: Combined order systems with workforce management data
-2. **Time-Slot Analysis**: Identified critical delivery windows
-3. **Predictive Modeling**: Forecasted demand using historical patterns
-4. **Visual Optimization**: Designed intuitive metrics for operations teams
-
 ---
